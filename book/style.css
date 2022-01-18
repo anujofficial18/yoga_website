@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Roboto:wght@300;500;700;900&display=swap');body{
+    font-family: 'Montserrat', sans-serif;
+}
+.small{
+    font-size: 15px;
+}
+.logo img{
+    width: 100%;
+}
+.banner img{
+    height: 70vh;
+}
+.logo img{
+    max-width: 100px;
+    max-height: 100px;
+}
+.round{
+    border-radius: 40px;
+}
+.border_right{
+    border-right: 1px solid black;
+}
+.programes img{
+    width: 100%;
+}
+.Professional img{
+    width: 100%;
+    max-height: 240px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.teacher_img img{
+    max-height: 150px;
+    max-width: 150px;
+    min-height: 150px;
+    min-width: 150px;
+    border-radius: 100px;
+    /* border-radius: 100px; */
+}
+.yoga_sessions_img img{
+    width: 100%;
+    max-height: 160px;
+    min-height: 160px;
+   
+}
+.banner_img img{
+    width: 100%;
+    height: 70vh;
+}
+.schedule-scroll{
+    overflow-y: scroll;
+}
+.schedule-scroll::-webkit-scrollbar{
+    display:none; 
+}
+
+.map iframe{
+    width: 100% ;
+    height: 50vh;
+}
+.yoga_card{
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(2, 2, 2)),
+    url('https://images.unsplash.com/photo-1617372591382-4ecd2bf8bbc3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHx5b2dhJTIwcG9zZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    height: 400px;
+    background-size: cover;
+    color: white;
+}
+
+.bottom{
+    margin-top: 300px;
+}
+
+
+
+
+.search_banner_img{
+    background-image: 
+    linear-gradient(to left, rgba(255, 255, 255, 0), rgb(0, 0, 0)),
+    url('https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    
+    height: 50vh;
+}
+.dropdown-menu{
+    border: none;
+}
+
+
+.search_card img{
+    width: 100%;
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 200px;
+    min-width: 300px;
+}
+
+
+.related_card img{
+    width: 100%;
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 200px;
+    min-width: 300px;
+}
+
+
+
+.bg_img{
+    background-image: url(https://media.istockphoto.com/photos/abstract-background-light-green-yellow-color-gradient-with-spotlight-picture-id1290830680?b=1&k=20&m=1290830680&s=170667a&w=0&h=byyZb2y4KFGeJNyiSnnfGp1TbcYR0D5zL4owOpoRy_o=    );
+    background-size: cover;
+ }
